@@ -4,5 +4,6 @@
     <file url="file://$PROJECT_DIR$/../config-service/config-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../currency-exchange-service/currency-exchange-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/limits-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
   </component>
 </project>
